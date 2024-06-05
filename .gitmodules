@@ -1,0 +1,6 @@
+[submodule "react-redux-todo-app"]
+	path = react-redux-todo-app
+	url = https://github.com/lequyan2003/react-redux-todo-app.git
+[submodule "react-typescript-todo-app"]
+	path = react-typescript-todo-app
+	url = https://github.com/lequyan2003/react-typescript-todo-app.git
